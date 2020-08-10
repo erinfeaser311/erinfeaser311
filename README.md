@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**erinfeaser311/erinfeaser311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center"> 🤩 I'm Erin Feaser 🤩 </h1>
+<h1 align="center"> ✨ I'm Erin Feaser ✨ </h1>
 <h3 align="center">🚀 Data Scientist, Developer, love learning new things 🚀</h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
