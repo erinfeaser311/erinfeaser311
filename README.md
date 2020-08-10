@@ -27,11 +27,11 @@
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/erin-feaser-furr/">
-    <img src="https://img.shields.io/badge/linkedin-erin-feaser-furr">
+    <img src="https://img.shields.io/badge/linkedin-erin--feaser--furr-red">
   </a>
   
   <a href="https://www.instagram.com/erinkf311/">
-    <img src="https://img.shields.io/badge/instagram-erinkf311">
+    <img src="https://img.shields.io/badge/instagram-erinkf311-blue">
   </a>
 </p>
 </h1>
